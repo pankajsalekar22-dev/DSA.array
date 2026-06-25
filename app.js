@@ -38,8 +38,6 @@ function findCount(){
 console.log(findCount());
 
 
-word[i] > longest.length
-logest = word[i];
 
 let arr = [45, 12, 89, 23, 67];
 
